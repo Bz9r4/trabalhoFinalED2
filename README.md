@@ -13,7 +13,6 @@ em função do grafo produzido a partir de dados_grafo.txt, as questões seguint
 Este programa em C lê uma matriz de um arquivo, realiza diversas operações sobre ela e escreve os resultados em arquivos.
 
 ## 2. Estrutura do Código
-A estrutura do código pode ser dividida em 7 partes principais:
 
 ### 2.1. Inclusão de Bibliotecas 
 bibliotecas padrão de entrada e saída e as bibliotecas padrão de alocação de memória.
