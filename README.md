@@ -33,7 +33,7 @@ O nosso grafo é Não direcional.
    R: O programa passa por cada célula da matriz de adjacência do gráfico original e atribui valor complementar à célula correspondente na matriz do gráfico complementar, basicamente onde tem 0 vai virar 1 e onde tem 1 vai virar 0, você preenche todas arestas que faltavam para ter um grafo completo e remove todas as outras arestas que ja estavam lá.
 
 ## 12: Verifique se o primeiro e último vértice estão conectados.
-    R: Não estão conectados. O programa verifica se o primeiro e o último vértice estão conectados, verificando se existe uma aresta entre esses dois vértices na matriz de adjacência do grafo. Se o valor na posição (0, tamanho_matriz- 1) for 1, isso significa que há uma aresta entre o primeiro e o último vértices. Se o valor for 1, o programa retornará 1, indicando que os vértices estão conectados. Caso contrário, retorna 0, indicando que não estão conectados.
+   R: Não estão conectados. O programa verifica se o primeiro e o último vértice estão conectados, verificando se existe uma aresta entre esses dois vértices na matriz de adjacência do grafo. Se o valor na posição (0, tamanho_matriz- 1) for 1, isso significa que há uma aresta entre o primeiro e o último vértices. Se o valor for 1, o programa retornará 1, indicando que os vértices estão conectados. Caso contrário, retorna 0, indicando que não estão conectados.
 
 ---
 
